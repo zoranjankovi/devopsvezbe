@@ -1,0 +1,12 @@
+D:\nastava\rees\2021-04-22\UTVezbe\UTVezbeCommon\bin\Debug\UTVezbeCommon.dll
+D:\nastava\rees\2021-04-22\UTVezbe\UTVezbeCommon\bin\Debug\UTVezbeCommon.pdb
+D:\nastava\rees\2021-04-22\UTVezbe\UTVezbeCommon\obj\Debug\UTVezbeCommon.csproj.CoreCompileInputs.cache
+D:\nastava\rees\2021-04-22\UTVezbe\UTVezbeCommon\obj\Debug\UTVezbeCommon.dll
+D:\nastava\rees\2021-04-22\UTVezbe\UTVezbeCommon\obj\Debug\UTVezbeCommon.pdb
+D:\nastava\rees\2021-04-22\UTVezbe\UTVezbeCommon\obj\Debug\UTVezbeCommon.csprojAssemblyReference.cache
+D:\nastava\rees\2021-04-22\Grupa3\UTVezbe\UTVezbeCommon\bin\Debug\UTVezbeCommon.dll
+D:\nastava\rees\2021-04-22\Grupa3\UTVezbe\UTVezbeCommon\bin\Debug\UTVezbeCommon.pdb
+D:\nastava\rees\2021-04-22\Grupa3\UTVezbe\UTVezbeCommon\obj\Debug\UTVezbeCommon.csprojAssemblyReference.cache
+D:\nastava\rees\2021-04-22\Grupa3\UTVezbe\UTVezbeCommon\obj\Debug\UTVezbeCommon.csproj.CoreCompileInputs.cache
+D:\nastava\rees\2021-04-22\Grupa3\UTVezbe\UTVezbeCommon\obj\Debug\UTVezbeCommon.dll
+D:\nastava\rees\2021-04-22\Grupa3\UTVezbe\UTVezbeCommon\obj\Debug\UTVezbeCommon.pdb
